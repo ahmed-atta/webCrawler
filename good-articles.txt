@@ -1,0 +1,4 @@
+http://blog.hartleybrody.com/web-scraping/
+
+http://en.wikipedia.org/wiki/Facebook
+http://phpcrawl.cuab.de/
