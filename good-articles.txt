@@ -1,9 +1,8 @@
-http://blog.hartleybrody.com/web-scraping/
 
-http://en.wikipedia.org/wiki/Facebook
-http://phpcrawl.cuab.de/
-http://www.makeuseof.com/tag/build-basic-web-crawler-pull-information-website/
-http://rockmanx.wordpress.com/2009/06/04/create-a-php-web-crawler-or-scraper-in-5-minutes/
-http://www.binpress.com/app/php-web-crawler/113
-http://codescience.wordpress.com/2011/02/15/php-web-crawler/
-https://github.com/webdevbyjoss/Web-crawler-on-PHP-to-index-content-of-specific-sites
+
+
+
+
+
+
+
